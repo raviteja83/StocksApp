@@ -2,6 +2,7 @@
   "name": "StocksApp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://raviteja83.github.io/StocksApp/",
   "devDependencies": {
     "react-scripts": "0.9.5"
   },
