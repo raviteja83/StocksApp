@@ -42,7 +42,6 @@ class App extends Component {
             lastUpdated: moment(),
             background: background
            }
-           console.log(background);
         }
       });
       this.setState({
@@ -53,7 +52,6 @@ class App extends Component {
   
   render() {
     let {data} = this.state;
-    console.log(data);
     let keys = Object.keys(data);
     return (
       <div className="container">
