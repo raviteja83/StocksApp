@@ -3,6 +3,7 @@
   width: 960px;
   background: #fff;
   color: #333;
+  padding: 10px;
 }
 
 table {
@@ -13,10 +14,6 @@ th,td {
   padding: 10px 5px;
 }
 
-.price-first {
-  background: #fff;
-  color: #333;
-}
 .price-low {
   color: red;
   margin-left: 5px;
